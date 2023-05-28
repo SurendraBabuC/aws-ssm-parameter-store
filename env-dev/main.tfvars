@@ -10,6 +10,7 @@ parameters = [
   { name: "dev.user.mongo", value = "MONGO=true"},
   { name: "dev.user.redis_host", value = "redis-dev.surendrababuc01.online"},
   { name: "dev.user.mongo_url", value = "mongodb://mongodb-dev.surendrababuc01.online:27017/users"},
+  { name: "dev.user.mongo_endpoint", value = "mongodb-dev.surendrababuc01.online"},
   { name: "dev.cart.redis_host", value = "redis-dev.surendrababuc01.online"},
   { name: "dev.cart.catalogue_host", value = "catalogue-dev.surendrababuc01.online"},
   { name: "dev.cart.catalogue_port", value = "8080"},
